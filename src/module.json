@@ -2,7 +2,7 @@
 	"id": "chat-portrait",
 	"title": "Chat Portrait",
 	"description": "Display the Actor's portrait and colors on the Chat Message.",
-	"version": "0.8.46",
+	"version": "0.8.47",
 	"authors": [
 		{
 			"name": "Shoyu Vanilla"
@@ -112,8 +112,7 @@
 	],
 	"compatibility": {
 		"minimum": 10,
-		"verified": 10,
-		"maximum": 10
+		"verified": 10
 	},
 	"manifestPlusVersion": "1.2.1",
 	"url": "https://github.com/p4535992/foundryvtt-chat-portrait",
